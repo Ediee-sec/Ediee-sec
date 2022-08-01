@@ -84,6 +84,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ediee-Sec}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
