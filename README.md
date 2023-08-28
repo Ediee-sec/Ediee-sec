@@ -54,12 +54,12 @@
 <img align = "center" alt="html5" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>&nbsp;
 
-### Estudando:
+### Sistemas Operacionais:
 <div style="display: inline-block">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=601591">
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=15991B">
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624">
 
 </div>&nbsp;
 
