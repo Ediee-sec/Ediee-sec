@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc86&height=180&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cc86&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Emerson+Pereira;Tenho+29+Anos+de+Idade;Eu+Moro+Em+Jundiaí,+SP;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cc86&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Emerson+Pereira;Tenho+29+Anos+de+Idade;Eu+Moro+Em+Jundiaí,+SP;Bem-vindo+Ao+Meu+Repositório!+:%30)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Ediee-Sec&show_icons=true&count_private=true&hide_border=true&title_color=00cc86&icon_color=00cc86&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Pereira GitHub Stats" />
